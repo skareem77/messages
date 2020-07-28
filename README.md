@@ -1,2 +1,2 @@
 # messages
-Implementing JWT with spring security. 
+Spring-Boot, Rest, JWT, Spring Security
